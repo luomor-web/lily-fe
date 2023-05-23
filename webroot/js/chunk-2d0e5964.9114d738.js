@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e5964"],{"94b5":function(e,n,u){"use strict";u.r(n);var t=function(){var e=this,n=e._self._c;return n("router-view")},a=[],c={name:"OaFinanceRoutePage"},o=c,r=u("e607"),i=Object(r["a"])(o,t,a,!1,null,null,null);n["default"]=i.exports}}]);

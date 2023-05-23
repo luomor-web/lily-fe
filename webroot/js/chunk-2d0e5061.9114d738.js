@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e5061"],{"935f":function(e,n,t){"use strict";t.r(n);var u=function(){var e=this,n=e._self._c;return n("router-view")},o=[],r={name:"IotLampRoute"},a=r,c=t("e607"),l=Object(c["a"])(a,u,o,!1,null,null,null);n["default"]=l.exports}}]);

@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d7dbb"],{7936:function(n,e,t){"use strict";t.r(e);var u=function(){var n=this,e=n._self._c;return e("router-view")},o=[],i={name:"SettingCommunityRoutePage"},r=i,a=t("e607"),c=Object(a["a"])(r,u,o,!1,null,null,null);e["default"]=c.exports}}]);

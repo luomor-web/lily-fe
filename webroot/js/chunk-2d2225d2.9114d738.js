@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2225d2"],{cdfa:function(e,n,u){"use strict";u.r(n);var t=function(){var e=this,n=e._self._c;return n("router-view")},a=[],o={name:"OaRefoundRoutePage"},c=o,r=u("e607"),l=Object(r["a"])(c,t,a,!1,null,null,null);n["default"]=l.exports}}]);

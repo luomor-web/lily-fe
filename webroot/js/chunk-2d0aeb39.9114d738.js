@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0aeb39"],{"0ad6":function(e,n,a){"use strict";a.r(n);var r=function(){var e=this,n=e._self._c;return n("router-view")},u=[],t={name:"OaOrderRepairRoutePage"},o=t,c=a("e607"),i=Object(c["a"])(o,r,u,!1,null,null,null);n["default"]=i.exports}}]);

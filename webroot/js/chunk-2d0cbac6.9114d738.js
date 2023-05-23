@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cbac6"],{"4b57":function(e,n,u){"use strict";u.r(n);var a=function(){var e=this,n=e._self._c;return n("router-view")},c=[],t={name:"BasicRepairRoutePage"},r=t,i=u("e607"),o=Object(i["a"])(r,a,c,!1,null,null,null);n["default"]=o.exports}}]);

@@ -1,0 +1,1 @@
+.purchase-item{position:relative;padding-top:20px}.purchase-item .remove{position:absolute;top:10px;right:0;font-size:12px}.purchase-item .remove>i{font-size:16px}.purchase-item h4{text-align:center}.purchase-item+.purchase-item{border-top:1px dashed #eee}
